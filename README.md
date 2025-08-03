@@ -5,8 +5,7 @@ I'm <a href="https://damchivi-portfolio.vercel.app/" target="_blank" rel="norefe
 <h2 align="center">
 Fullstack Engineer 💻 | 3D Graphic Designer 🎨
 </h2> 
-<img width="1366" height="607"  alt="Image" href="https://damchivi-portfolio.vercel.app/" target="_blank" rel="noreferrer" src="https://github.com/user-attachments/assets/22d94882-8cff-4579-8e7d-3459a8f3c89e" />
-I specialize in building modern fullstack web applications and creating interactive 3D experiences. My expertise spans frontend, backend, and 3D visualization. I enjoy solving real-world problems with clean, scalable code and visually engaging UI/UX.
+<img width="1366" height="607" alt="Image" src="https://github.com/user-attachments/assets/e5be7465-a1ba-4a91-b008-370815bc3930" />I specialize in building modern fullstack web applications and creating interactive 3D experiences. My expertise spans frontend, backend, and 3D visualization. I enjoy solving real-world problems with clean, scalable code and visually engaging UI/UX.
 
 My GitHub showcases projects in many technologies. I’m passionate about blending code and design to deliver high-impact user experiences.
 
