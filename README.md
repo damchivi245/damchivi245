@@ -7,8 +7,7 @@ Fullstack Engineer 💻 | 3D Graphic Designer 🎨
 </h2> 
 
 <p align="center">
-  <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/e5be7465-a1ba-4a91-b008-370815bc3930" />
-</p>
+<img width="1366" height="607" alt="Image" src="https://github.com/user-attachments/assets/7ae75946-687b-453b-b5e9-924acd79d05d" /></p>
 
 I specialize in building modern fullstack web applications and creating interactive 3D experiences.  
 My expertise spans frontend, backend, and 3D visualization.  
